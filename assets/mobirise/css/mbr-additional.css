@@ -1382,5 +1382,14 @@ body {
   }
 }
 .cid-riQi4yD0dW {
-  background-image: url("../../../assets/images/mbr-1920x1275.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1271.jpg");
+}
+.cid-riQi4yD0dW H1 {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-riQi4yD0dW .mbr-text,
+.cid-riQi4yD0dW .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
 }
